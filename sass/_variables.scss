@@ -1,9 +1,15 @@
-$grayscale-primary: #219AB3 !default;
-$grayscale-dark: #000 !default;
-$grayscale-light: #fff !default;
+$cru-dark: #666062;
+$cru-light: #f7f7f8;
+$cru-cru-bg: #e7e7e8;
+$cru-bright-blue: #3eb1c8;
+$cru-deep-blue: #007398;
+$cru-gold: #f9b625;
+$cru-orange: #dd7d1b;
+$cru-red: #c22d27;
+$cru-primary: $cru-red;
 
-$grayscale-body-font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
-$grayscale-headline-font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+$cru-body-font-family: "Chivo","Helvetica Neue",Helvetica,Arial,sans-serif;
+$cru-headline-font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 $icon-font-path: '../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/';
 $fa-font-path: '../bower_components/font-awesome/fonts';
